@@ -1,4 +1,4 @@
-# SocMediaScrapper Telegram Bot 
+# Social Media Scrapper Telegram Bot 
 ## Test the bot now - [@UzSavebot](https://t.me/UzSavebot)
 ------------------------
 
